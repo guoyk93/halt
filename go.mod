@@ -1,4 +1,4 @@
-module github.com/guoyk93/halt
+module github.com/yankeguo/halt
 
 go 1.20
 

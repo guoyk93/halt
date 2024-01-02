@@ -1,2 +1,7 @@
 # halt
-A general halt error for Go
+
+General halt error for Go
+
+## Credits
+
+GUO YANKE, MIT License
